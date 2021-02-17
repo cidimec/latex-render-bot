@@ -1,0 +1,2 @@
+export const SLACK_OAUTH_TOKEN='xoxb-1274619549590-1422755725158-qAaQXXZvx010SXld1vveCkBD'
+export const BOT_PRUEBASLATEX_CHANNEL='#pruebaslatex'
